@@ -20,13 +20,11 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🔹 [**API de Livros**](https://github.com/rafaelouverney/api-livros)  
+- 🔹 [**API de Livros**](https://github.com/rafaelouverney/Trabalho-Individual-API)  
   API REST com Java e Spring Boot, incluindo validações com Jakarta e persistência em banco H2.
 
-- 🔹 [**Sistema de Pedidos**](https://github.com/rafaelouverney/sistema-pedidos)  
-  CRUD completo para pedidos com clientes, datas e integração com banco de dados.
 
-- 🔹 [**E-commerce de Poções**](https://github.com/rafaelouverney/pocoes-store)  
+- 🔹 [**E-commerce de Poções**](https://github.com/rafaelouverney/Trabalho-Final-FrontEnd)  
   Site responsivo com HTML, CSS e JavaScript, seguindo o conceito *mobile first*.
 
 ---
